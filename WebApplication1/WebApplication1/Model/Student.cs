@@ -15,6 +15,8 @@ namespace WebApplication1.Model
 
         public string comapny { get; set; }
 
+        public string chng { get; set; }
+
 
 
 
