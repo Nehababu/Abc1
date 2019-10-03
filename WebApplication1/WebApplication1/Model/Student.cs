@@ -11,5 +11,6 @@ namespace WebApplication1.Model
         public string City { get; set; }
 
        public string Address { get; set; }
+        public string Branch { get; set; }
     }
 }
