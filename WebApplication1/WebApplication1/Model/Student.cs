@@ -12,5 +12,6 @@ namespace WebApplication1.Model
 
        public string Address { get; set; }
         public string Branch { get; set; }
+        public string mobile { get; set; }
     }
 }
