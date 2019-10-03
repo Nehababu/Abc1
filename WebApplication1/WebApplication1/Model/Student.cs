@@ -14,5 +14,6 @@ namespace WebApplication1.Model
         public string Mobile { get; set; }
         public string Branch { get; set; }
         public string mobile { get; set; }
+        public string lastname { get; set; }
     }
 }
