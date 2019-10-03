@@ -13,6 +13,7 @@ namespace WebApplication1.Model
         public int marks { get; set; }
 
         public string comapny { get; set; }
+        public string sendchng { get; set; }
 
 
 
