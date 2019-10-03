@@ -9,7 +9,8 @@ namespace WebApplication1.Model
     {
         public string Name { get; set; }
         public string City { get; set; }
+        public string Lastname { get; set; }
 
-      
+
     }
 }
