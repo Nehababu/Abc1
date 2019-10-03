@@ -17,6 +17,10 @@ namespace WebApplication1.Model
 
 
 
+        public string diffchng { get; set; }
+
+
+
 
     }
 }
