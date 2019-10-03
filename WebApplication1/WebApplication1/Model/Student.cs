@@ -17,6 +17,7 @@ namespace WebApplication1.Model
         public string sendchng { get; set; }
 
         public string chng { get; set; }
+        public string chngetwo { get; set; }
 
 
 
