@@ -8,5 +8,6 @@ namespace WebApplication1.Model
     public class Student
     {
         public string Name { get; set; }
+        public string City { get; set; }
     }
 }
