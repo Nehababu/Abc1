@@ -13,6 +13,8 @@ namespace WebApplication1.Model
         public int marks { get; set; }
         public string branh { get; set; }
 
+        public string comapny { get; set; }
+
 
 
 
