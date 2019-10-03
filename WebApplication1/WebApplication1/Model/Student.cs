@@ -16,7 +16,7 @@ namespace WebApplication1.Model
         public string mobile { get; set; }
         public string lastname { get; set; }
         public int marks { get; set; }
-
         public string Subject { get; set; }
+
     }
 }
